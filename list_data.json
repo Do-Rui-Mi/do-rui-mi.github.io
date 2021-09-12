@@ -1,33 +1,33 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"FALL 2021 Enrolled Courses": [{
+		"Course": "Info 202: Information Organization and Retrieval",
+		"Instructor": "Marti Hearst, Katherine R Stasaski.",
+		"Time": "Tue/Thu 9:30 - 11:00",
+		"Location": "Weill Hall 101"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Course": "Info 271B: Quantitative Research Methods",
+		"Instructor": "Coye Cheshire, Andrew Chong",
+		"Time": "Tue/Thu 12:30 - 2:00",
+		"Location": "Barker Hall 101"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Course": "Info 225: Managing in Information-Intensive Companies",
+		"Instructor": "Morten T. Hansen, Priyanka Dasgupta",
+		"Time": "Fri 9:00 - 12:00",
+		"Location": "South Hall 210"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Course": "Info 290: Applications of Artificial Intelligence in Healthcare",
+		"Instructor": "Dr. Fred Nugen",
+		"Time": "Mon/Wed 6:30 - 8:00",
+		"Location": "Virtual"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Course": "Info 206a/b: Introduction to Programming and Computation",
+		"Instructor": "Ben Allen, Chia-Yi Chu, Jackie Hu, Junyi Cheng",
+		"Time": "Cory Hall 277",
+		"Location": "Mon/Wed 2:00 - 4:00"
 	}]
-	
+
 }
